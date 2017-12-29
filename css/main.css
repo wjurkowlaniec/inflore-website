@@ -24,9 +24,12 @@ h2 .btn-text {
     justify-content: center;
     align-items: center;
     background-color: transparent;
+  transition: border-width 0.15s ease-out;
+
 }
 .icons-middle:hover{
     background-color: transparent;
+    border-width: 3px;
 }
 
 .icon-size {
