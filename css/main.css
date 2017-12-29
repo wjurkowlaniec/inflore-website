@@ -15,7 +15,7 @@ h2 .btn-text {
 }
 
 .bg {
-    background-image: url("../img/background.jpg") ;
+    background-image: url("../img/background.jpg");
     background-repeat: no-repeat;
 }
 
@@ -24,10 +24,11 @@ h2 .btn-text {
     justify-content: center;
     align-items: center;
     background-color: transparent;
-  transition: border-width 0.15s ease-out;
+    transition: border-width 0.15s ease-out;
 
 }
-.icons-middle:hover{
+
+.icons-middle:hover {
     background-color: transparent;
     border-width: 3px;
 }
@@ -56,11 +57,6 @@ h2 {
     width: 100%;
 }
 
-
-
-
-
-
-
-
-
+.pb-10 {
+    padding-bottom: 9rem !important;
+}
